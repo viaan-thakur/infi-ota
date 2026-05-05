@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "filename": "test.zip",
-      "download": "https://dl.viaan152013.workers.dev/0:/DL.viaan152013.workers.dev/Project_Infinity-X-3.10-sunny-05.05.2026-GAPPS-UNOFFICIAL.zip?r=test",
-      "timestamp": 2000000000,
-      "md5": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "filename": "Project_Infinity-X-3.10-sunny-05.05.2026-GAPPS-UNOFFICIAL.zip",
+      "download": "https://dl.viaan152013.workers.dev/0:/DL.viaan152013.workers.dev/Project_Infinity-X-3.10-sunny-05.05.2026-GAPPS-UNOFFICIAL.zip",
+      "timestamp": 1777980461,
+      "md5": "f0e72c508a75a855bb5d7fad9402f6db",
       "size": 2132209251,
-      "version": "999.0-test"
+      "version": "3.10"
     }
   ]
 }
