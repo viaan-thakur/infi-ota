@@ -1,0 +1,7 @@
+Device Maintainer: Viaan
+Device: Redmi Note 10
+Telegram Channel: https://t.me/rn10potato
+
+Date - 05-05-2026
+=============================
+  Added OTA Support
