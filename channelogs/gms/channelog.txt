@@ -2,6 +2,12 @@ Device Maintainer: Viaan
 Device: Redmi Note 10
 Telegram Channel: https://t.me/rn10potato
 
+Date - 06-05-2026
+=============================
+- Add MiuiCamera
+- Drop Aperture Camera
+- Bring back Dolby Configs
+
 Date - 05-05-2026
 =============================
-  Added OTA Support
+- Added OTA updates support
