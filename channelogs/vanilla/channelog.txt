@@ -3,7 +3,7 @@ Device: Redmi Note 10
 Telegram Channel: https://t.me/rn10potato
 
 Date - 09-05-2026
-=============================================
+=============================
 - Fix Dolby Atmos not giving any Dolby Audio
 - Ship Google Camera (MGC 8.4)
 
