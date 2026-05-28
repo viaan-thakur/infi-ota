@@ -1,1 +1,8 @@
+Device Maintainer: Viaan
+Device: Redmi Note 14 5G
+Telegram Channel: https://t.me/rn10potato
 
+Date - 28-05-2026
+=============================
+- Add Dolby Atmos and Dolby Vision
+- Added OTA updates support
