@@ -1,1 +1,8 @@
+Device Maintainer: Viaan
+Device: Motorola G57 Power
+Telegram Channel: https://t.me/ViaanAOSP
 
+Date - 05-05-2026
+=============================
+- Added OTA updates support
+- Initial Build for Mumba
